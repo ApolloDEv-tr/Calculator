@@ -16,3 +16,4 @@ How to Run the Script
 1. Make sure you have Python 3.x installed on your machine.
 2. Clone or download this script to your workspace.
 3. Open your terminal or command prompt, navigate to the folder, and run:
+python dice_game.py
